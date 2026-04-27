@@ -3,6 +3,7 @@
   "short_name": "Efetivo",
   "description": "Controle de presença e reports de efetivo",
   "start_url": "/norvex_app_v01/index.html",
+  "scope": "/norvex_app_v01/",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
